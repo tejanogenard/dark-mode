@@ -17,7 +17,7 @@ export const useDarkMode = (key, initialValue) => {
             document.body.classList.remove('dark-mode')
           }
     })
-
+        // WHAT IS THE SETTING FUNCTION
 return [values, setValues]
 
 }
